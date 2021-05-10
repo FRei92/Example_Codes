@@ -6,4 +6,4 @@ Created on Mon May 10 16:33:59 2021
 """
 
 def LFT_printer(text):
-    print('LFT_printer: ' + str(text))
+    print('########## /n LFT_printer: ' + str(text) + '/n #################')
